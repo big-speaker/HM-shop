@@ -9,20 +9,20 @@
 
 ### 地址界面
 
-![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/Msite.png)
+![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/about.png)
 
 ### 商品列表界面
 
-![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/Msite.png)
+![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/goodlist.png)
 
 ### 商品详情界面
 
-![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/Msite.png)
+![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/gooddetail.png)
 
-### 地址界面
+### 菜单界面
 
-![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/Msite.png)
+![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/cart.png)
 
 ### 资讯界面
 
-![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/Msite.png)
+![Alt text](https://github.com/big-speaker/HM-shop/blob/master/introduceImg/zhixun.png)
