@@ -1,0 +1,1 @@
+<view class="news"><newitem vue-id="a8807b84-1" news="{{news}}" data-event-opts="{{[['^goDetail',[['goDetail']]]]}}" bind:goDetail="__e" bind:__l="__l"></newitem></view>

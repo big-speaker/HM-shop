@@ -1,0 +1,1 @@
+<view class="new-detail"><text class="title">{{newDetail.goods_name}}</text><view class="info"><text>{{"发布时间："+$root.f0}}</text><text>{{"数量："+newDetail.goods_number}}</text></view><view class="content"><image src="{{newDetail.goods_big_logo}}"></image></view></view>
